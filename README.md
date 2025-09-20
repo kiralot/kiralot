@@ -17,9 +17,6 @@
 
 - 🐧 I use Arch Linux (btw).
 
-- ## Contact
-- 📧 nachonsccru@gmail.com
-
 
 <h2 align="left">Here's my stack</h2>
 
@@ -50,5 +47,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="GNU/Linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
 </p>
+
+- ## Contact
+- 📧 nachonsccru@gmail.com
 
 <br>
