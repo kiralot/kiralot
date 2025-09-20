@@ -13,9 +13,13 @@
 
 - 🤖 I also enjoy working with machine learning tools and libraries.
 
-- 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/ignacio-luis-prosperi-tosolino-48606a35a).
+- 📫 You can find me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-luis-prosperi-tosolino-48606a35a).
 
 - 🐧 I use Arch Linux (btw).
+
+- ## Contact
+- 📧 nachonsccru@gmail.com
+
 
 <h2 align="left">Here's my stack</h2>
 
