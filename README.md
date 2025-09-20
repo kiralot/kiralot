@@ -23,7 +23,6 @@
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://img.icons8.com/plasticine/512/bash.png" alt="Bash" width="40" height="40"/>
-  <img src="https://static-00.iconduck.com/assets.00/file-type-zig-icon-512x341-uyjfa95r.png" alt="Zig" width="40" height="40"/>
 </p>
 
 ##### Data
